@@ -1,0 +1,11 @@
+{
+  "name": "desafio-accenture",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^8.0.2",
+    "cypress": "^13.1.0"
+  }
+}
