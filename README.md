@@ -87,7 +87,7 @@ npx cypress run --spec "cypress/e2e/ui/formulario.cy.js"
 
 - Node.js 18+
 - npm
-- Cypress ^12.17.0
+- Cypress ^13.1.0
 
 ---
 
